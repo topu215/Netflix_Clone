@@ -1,2 +1,2 @@
-# Netflix_Clone
-Netflix Clone site
+# Netflix
+Netflix vlone websaite
